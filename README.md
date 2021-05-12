@@ -7,7 +7,7 @@
 ### Table of Contents
 - [Description](#description)
 - [Dependencies](#spring-boot)
-- [SQL Query](#sql-query)
+- [SQL Query](#SQL-query)
 - [Author Info](#author-info)
 
 ---
@@ -36,9 +36,9 @@
 
 ---
 
-## 🗃 SQL Query
+## SQL Query
 
-📃 [northwind.sql](https://github.com/Dogukanyllmaz/recapDemo-Northwind/blob/main/northwind.sql)<br>
+[northwind.sql](https://github.com/Dogukanyllmaz/recapDemo-Northwind/blob/main/northwind.sql)<br>
 
 ---
 
