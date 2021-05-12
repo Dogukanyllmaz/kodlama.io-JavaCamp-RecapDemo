@@ -14,8 +14,10 @@
 
 ## Description
 
+- I keep working on it.
 - This project is a Products-Management project. It was developed thanks to the education of Engin Demiroğ.
 - In this project, we used postgreSql for the database.
+
 
 #### Technologies
 
