@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/Dogukanyllmaz/recapDemo-Northwind)](https://github.com/Dogukanyllmaz/recapDemo-Northwind/blob/master/LICENSE)
+
 <h1 align="center">Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT)</h1>
 
 <p align="center">
