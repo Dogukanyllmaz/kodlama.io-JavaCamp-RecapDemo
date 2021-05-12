@@ -6,8 +6,8 @@
 
 ### Table of Contents
 - [Description](#description)
-- [How To Use](#how-to-use)
-- [License]()
+- [Dependencies](#spring-boot)
+- [SQL Query](#sql-query)
 - [Author Info](#author-info)
 
 ---
@@ -24,23 +24,21 @@
 
 ---
 
-## How To Use
+## Spring Boot
 
-```bash
-# Clone the repository
-$ git clone https://github.com/Dogukanyllmaz/recapDemo-Northwind
+#### Dependencies
 
-# Go to file
-$ cd recapDemo-Northwind.git
+- Spring Boot DevTools
+- Lombok
+- Spring Web
+- Spring Data JPA
+- PostgreSQL Driver
 
-```
 ---
 
-## License
+## 🗃 SQL Query
 
-MIT License
-
-Copyright (c) 2021 Doğukan Yılmaz
+📃 [northwind.sql](https://github.com/Dogukanyllmaz/recapDemo-Northwind/blob/main/northwind.sql)<br>
 
 ---
 
